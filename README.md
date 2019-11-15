@@ -2,7 +2,8 @@
 Supplementary website to demonstrate the audio examples mentioned in the paper.
 
 ### Figure 1
-[Dry Audio Signal](/Synth Stab.wav)
+[Dry Audio Signal](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/Synth%20Stab.wav)
+[Low Pass Filtered Signal](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/Synth%20Stab.wav)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
