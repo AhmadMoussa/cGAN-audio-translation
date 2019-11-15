@@ -1,7 +1,8 @@
 ## Audio translation with Conditional Adversarial Networks
 Supplementary website to demonstrate the audio examples mentioned in the paper.
 
-### Markdown
+### Figure 1
+[Dry Audio Signal](\Synth Stab.wav)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
