@@ -1,5 +1,5 @@
 ## Audio translation with Conditional Adversarial Networks
-Supplementary website to demonstrate the audio examples mentioned in the paper.
+Supplementary website to demonstrate the audio examples mentioned in the paper. Click on the links below the figures to download and listen to the audio files (unfortunately github does not allow the embedding of iframes).
 
 ### Figure 1
 ![Figure 1](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/Plots.png)
