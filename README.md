@@ -8,26 +8,12 @@ Listen to the dry audio [here](https://github.com/AhmadMoussa/cGAN-audio-transla
 
 Listen to the low pass filtered audio [here](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/Synth%20Stab.wav)
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Figure 4 and 5
+![Figure 4](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/reed_acoustic_037-073-075.png)
+![Figure 5](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/Spectroreed.png)
+### Figure 6 and 7
+![Figure 6](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/guitar_acoustic_010-086-075.png)
+![Figure 7](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/Spectroguitar.png)
 
 ### Jekyll Themes
 
