@@ -3,10 +3,11 @@ Supplementary website to demonstrate the audio examples mentioned in the paper.
 
 ### Figure 1
 ![Figure 1](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/Plots.png)
-[Dry Audio Signal](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/Synth%20Stab.wav)
-[Low Pass Filtered Signal](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/Synth%20Stab.wav)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Listen to the dry audio here [here](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/Synth%20Stab.wav)
+
+Listen to the low pass filtered audio [here](https://github.com/AhmadMoussa/cGAN-audio-translation/blob/master/Synth%20Stab.wav)
+
 
 ```markdown
 Syntax highlighted code block
